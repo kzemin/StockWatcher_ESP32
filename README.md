@@ -1,4 +1,4 @@
-# 📈 STOCK WATCHER – ESP32-S3 + TFT 160x80 + Finnhub API
+# 📈 STOCK WATCHER – ESP32S3 + TFT 160x80 + Finnhub API
 This proyect updates on screen the real-time prices for stocks and crypto, using an ESP32-S3, a TFT 160×80 display ST7735 and the Finnhub API.
 
 It uses the maximum amount of requests allowed by Finnhub (1 request/second) without exceding the rate-limit.
